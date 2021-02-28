@@ -1,4 +1,4 @@
-# Wine classification in Python
+# Wine classification using also ensembling techniques in Python
 ### Author: Adrian Żelazek
 
 In this project was used dataset concerning red and white wines. The dataset was created by merging two datasets. Target variables is wine_type where: 1 - red wine, 0 - white wine.
