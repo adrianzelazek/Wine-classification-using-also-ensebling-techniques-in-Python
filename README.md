@@ -45,6 +45,7 @@ Finally statistics of models were compared on one Data Frame and on one ROC plot
 * Shapiro-Wilk
 * normal test from Scipy
 * dummy coding
+* SMOTE
 * Pearson / Spearman corr
 * VIF
 * IV
